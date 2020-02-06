@@ -1,0 +1,45 @@
+---
+title: "Markdown Class Schedule"
+author: "Radha Patel"
+date: "January 31, 2020"
+output: 
+  html_notebook:
+    fig_height: 3
+    fig_width: 5
+---
+
+# Class Schedule
+
+### ENGL 138T: Rhetoric and Civic Life II
+
+This class is required for first-year Schreyer students. It is a continuation after ENGL 137H, which is a reqiured class for first semester students. It involves weekly blog posts including passion and civic blogs. There is also speech and writing components throughout the entire semester. 
+
+The PSU Canvas page is [ENGL 138T Course Website](https://psu.instructure.com/courses/2033972).
+
+Civic engagement is a key theme associated with this class and I found the Wikipedia article about Civic Engagment to be quite interesting [Civic Engagement Wikipedia](https://en.wikipedia.org/wiki/Civic_engagement)!  The page doesn't currently have a picture, but I thought this image displays unity through civic engagment.
+
+![](https://eportfolios.macaulay.cuny.edu/civiclife/files/2014/05/around-world-sm.jpg)
+
+### BIOL 230W: Biology of Molecules and Cells
+
+This class is taken after the completion of BIOL 110 in a previous semester. The units in this class delve into the principles of the cellular and moleuclar mechanisms in life. Many scientific techniques and concepts are learned through assigned scientific literature assigments throughout the semester. Concepts include epigenetics, microscopy, and learning about the origins of eukaryotic organisms. 
+
+The PSU Canvas page is [linked here](https://psu.instructure.com/courses/2031556).
+
+Check out <https://en.wikipedia.org/wiki/Molecular_biology> to learn more about the basics of molecular biology and techniques associated with this branch. This image shows illustrates a protein discussed in this class, Myoglobin. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/60/Myoglobin.png)
+
+
+### CHEM 110: General Chemistry
+
+This course is part of the first two introductory chemistry courses at Penn State. There are many goals related to this class. These include: understanding how atoms combine to form molecules, how molecules interact with each other, and how molecular-level structure affects the macroscopic properties of a compound. It is assumed the student has some chemistry and algebra background.
+
+The PSU Canvas page is <https://psu.instructure.com/courses/2051413>.  
+
+You can learn more about fundamentals, modern principles, and history of chemistry through this Wikipedia page on chemistry. [Chemistry Wikipedia Page](https://en.wikipedia.org/wiki/Chemistry). A diagram of the Bohr Model for an atom is seen below and this is one of the most important models in chemistry to understand electrostatic forces.
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_Diagram.svg)
+
+
+
